@@ -8,4 +8,4 @@
 #  $ git push                                 //This code pushes the the codes to the git hub. 
 
 # How to open a folder on VSCode with a command ?
-#  $ Code Foldername
+#  $ Code foldername
